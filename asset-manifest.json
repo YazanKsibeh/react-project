@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-project/static/css/main.795eb54e.css",
+    "main.js": "/react-project/static/js/main.af387d68.js",
+    "static/media/date.svg": "/react-project/static/media/date.a95ebe6e89803e2f48884bc7cd347bc0.svg",
+    "index.html": "/react-project/index.html",
+    "static/media/trash.svg": "/react-project/static/media/trash.65329eb4d02d742fbbb673d423203636.svg",
+    "static/media/view-2.svg": "/react-project/static/media/view-2.08957f0064048c7ad2305f51b2587044.svg",
+    "static/media/star-line.svg": "/react-project/static/media/star-line.815700d21daf1678fd355eb34c323dc6.svg",
+    "static/media/options.svg": "/react-project/static/media/options.b23e257ac213477f9bf22b28d1837460.svg",
+    "static/media/view-1.svg": "/react-project/static/media/view-1.cdbcf33578dada6da236eba9cc31b36d.svg",
+    "static/media/edit.svg": "/react-project/static/media/edit.4275c76a6db68c66d7881e7067da982d.svg",
+    "static/media/arrow.svg": "/react-project/static/media/arrow.3b06989b99047ede0ed33f04ec61ae93.svg",
+    "static/media/bell.svg": "/react-project/static/media/bell.b14336ff1a2df6f4593c1d74cb9fbaf0.svg",
+    "static/media/search.svg": "/react-project/static/media/search.4914cd7cc165cd56223ebfc77cd00242.svg",
+    "static/media/menu.svg": "/react-project/static/media/menu.31f722ed2e31fffe79f65e40ce2c6453.svg",
+    "static/media/check.svg": "/react-project/static/media/check.e07c35adf7078dbf2f813000e3437ad9.svg",
+    "static/media/x.svg": "/react-project/static/media/x.c8494eb2642084db18174e0aac7bfcf6.svg",
+    "main.795eb54e.css.map": "/react-project/static/css/main.795eb54e.css.map",
+    "main.af387d68.js.map": "/react-project/static/js/main.af387d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.795eb54e.css",
+    "static/js/main.af387d68.js"
+  ]
+}
